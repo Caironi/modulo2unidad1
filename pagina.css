@@ -1,0 +1,28 @@
+.cajauno{
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    background: rgb(132, 128, 219);
+    background: linear-gradient(90deg, rgba(134, 130, 215, 1) 0%, rgba(221, 29, 216, 1) 48%, rgba(249, 255, 0, 1) 100%);
+    box-shadow: -10px 10px 20px black;
+    border-radius: 10px;
+}
+.cajados{
+    background-color: slateblue;
+    column-count: 2;
+    column-gap: 50px;
+
+}
+.cajatres{
+    font-size: 20px;
+    color: rgb(176, 160, 189);
+    background-color: aqua;
+}
+.cajacuatro{
+    background-color: gray;
+}
+.cajacinco{
+    background-color: rgb(44, 80, 156);
+    width: 310px;
+    border-radius:  200px;
+}
